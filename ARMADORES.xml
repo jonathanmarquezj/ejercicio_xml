@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ARMADORES>
+	<armador>
+		<dni>43123218K</dni>
+		<nombre>Manuel</nombre>
+		<apellidos>Mero Perez</apellidos>
+		<ciudad>Sevilla (España)</ciudad>
+		<direccion>Calle Exposicion</direccion>
+		<telefono>672123878</telefono>
+		<num_cuenta>ES68 2103 2429 2181 5990 8568</num_cuenta>
+		<barcos>
+			<barco matricula="6ª-FE-3-80-95">
+				<nombre>Just Add Wind</nombre>
+				<clase>Crucero de pesca</clase>
+				<mango>2.00</mango>
+				<eslora>12.90</eslora>
+			</barco>
+			<barco matricula="6ª-GC-4-22-93">
+				<nombre>Vitamin Sea</nombre>
+				<clase>Catamarán</clase>
+				<mango>5.00</mango>
+				<eslora>20.00</eslora>
+			</barco>
+		</barcos>
+	</armador>
+	<armador>
+		<dni>48213472H</dni>
+		<nombre>Jose</nombre>
+		<apellidos>Castillo Rosel</apellidos>
+		<ciudad>Madrid (España)</ciudad>
+		<direccion>Calle Malaga</direccion>
+		<telefono>723123458</telefono>
+		<num_cuenta>ES66 2100 0418 4012 3456 7891</num_cuenta>
+		<barcos>
+			<barco matricula="6ª-MA-2-11-90">
+				<nombre>No Worries</nombre>
+				<clase>Consola central</clase>
+				<mango>2.00</mango>
+				<eslora>7.52</eslora>
+			</barco>
+		</barcos>
+	</armador>
+	<armador>
+		<dni>61231823L</dni>
+		<nombre>Carmen</nombre>
+		<apellidos>Jimenez Feraldo</apellidos>
+		<ciudad>Braga (Portugal)</ciudad>
+		<direccion>R. do Alcaide</direccion>
+		<telefono>789221334</telefono>
+		<num_cuenta>ES60 0049 1500 0512 3456 7892</num_cuenta>
+		<barcos>
+			<barco matricula="6ª-SE-1-20-94">
+				<nombre>Pugboat</nombre>
+				<clase>Barco cabinado pequeño</clase>
+				<mango>2.00</mango>
+				<eslora>8.90</eslora>
+			</barco>
+			<barco matricula="7ª-LU-2-33-93">
+				<nombre>Favorite Mistake</nombre>
+				<clase>Catamarán</clase>
+				<mango>5.00</mango>
+				<eslora>20.00</eslora>
+			</barco>
+		</barcos>
+	</armador>
+	<armador>
+		<dni>32192342P</dni>
+		<nombre>Inma</nombre>
+		<apellidos>Marquez Galan</apellidos>
+		<ciudad>Oporto (Portugal)</ciudad>
+		<direccion>Rua do Breiner</direccion>
+		<telefono>678999872</telefono>
+		<num_cuenta>ES94 2080 5801 1012 3456 7891</num_cuenta>
+		<barcos>
+			<barco matricula="7ª-PG-1-102-91">
+				<nombre>Aboar Time</nombre>
+				<clase>Consola central</clase>
+				<mango>2.00</mango>
+				<eslora>7.52</eslora>
+			</barco>
+			<barco matricula="7ª-TA-3-36-93">
+				<nombre >Titanic II</nombre>
+				<clase>Consola central</clase>
+				<mango>2.00</mango>
+				<eslora>7.52</eslora>
+			</barco>
+			<barco matricula="7ª-VI-4-342-94">
+				<nombre>Error 404</nombre>
+				<clase>Crucero de pesca</clase>
+				<mango>2.00</mango>
+				<eslora>12.90</eslora>
+			</barco>
+		</barcos>
+	</armador>
+</ARMADORES>
